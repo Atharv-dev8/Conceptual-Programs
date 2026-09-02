@@ -7,7 +7,7 @@ class Arithmetic
         int no1;
         int no2;
 
-        Arithmetic()  //default
+        Arithmetic()  //default constructor
         {
           this -> no1 = 0;
           this -> no2 = 0;

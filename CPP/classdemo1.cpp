@@ -15,7 +15,8 @@ void display()
 }
 
 };
-int main(){
+int main()
+{
         PPA pobj;
             cout<<sizeof(PPA)<<"\n";
 
