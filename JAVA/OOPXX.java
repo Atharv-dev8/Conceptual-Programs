@@ -17,7 +17,7 @@ class Arithmatic
     public int Addition()
     {
         int ans = 0;
-            ans = this.no1 + this.no2;
+            ans = this.no1 + this.no2;      //Get no1 and no2 from the current object.
             return ans;
     }
     public int Substraction()
@@ -28,7 +28,7 @@ class Arithmatic
         }
 
 }
-
+        //this = current object's reference.
 
 
 class OOPXX
