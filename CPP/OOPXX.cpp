@@ -41,25 +41,19 @@ class Arithmetic
 int main()
 {
 
- Arithmetic aobj1(21,10);
- int result = 0;
+    Arithmetic aobj1(21,10);
+    int result = 0;
 
- //result = addition (&aobj1);
- result = aobj1.Addition();
+    //result = addition (&aobj1);
+    result = aobj1.Addition();
 
- cout<<"Addition is : "<<result<<" \n";
+    cout<<"Addition is : "<<result<<" \n";
 
- //result = Substraction (&aobj1);
- result = aobj1.Substraction();
+    //result = Substraction (&aobj1);
+    result = aobj1.Substraction();
 
- cout<<"Substraction  is : "<<result<<" \n";
-
-
+    cout<<"Substraction  is : "<<result<<" \n";
 
 
-
-
-
-
-    return 0;
+    return 0;   
 }

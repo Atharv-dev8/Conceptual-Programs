@@ -32,10 +32,11 @@ class Demo
          }
 
 };
-int Demo :: X = 11;
+//int Demo :: X = 11;
 
 int main()
 {
+   int Demo :: X = 11;
 
    cout<<Demo :: X<<"\n";
 

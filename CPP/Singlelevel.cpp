@@ -53,7 +53,7 @@ int main()
 {
 
         cout<<sizeof(Base)<<"\n";
-         cout<<sizeof(Derived)<<"\n";
+        cout<<sizeof(Derived)<<"\n";
    
    
         
